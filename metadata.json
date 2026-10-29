@@ -1,0 +1,6 @@
+{
+  "name": "AI CareerPath — Smart Career Guidance System",
+  "description": "Smart, rule-based career guidance platform with skill gap analysis, interactive career quiz, learning roadmaps, and prompt engineering tutorials for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
